@@ -353,3 +353,5 @@ end
 Awesome - now, our index page will automatically display any new tweets that get created. In the next iteration of Fwitter, we'll add a form so that users can create Tweets dynamically. 
 
 
+
+<a href='https://learn.co/lessons/sinatra-fwitter-1-mvc' data-visibility='hidden'>View this lesson on Learn.co</a>
