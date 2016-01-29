@@ -354,4 +354,4 @@ Awesome - now, our index page will automatically display any new tweets that get
 
 
 
-<a href='https://learn.co/lessons/sinatra-fwitter-1-mvc' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/sinatra-fwitter-1-mvc' title='Sinatra Fwitter 1 MVC'>Sinatra Fwitter 1 MVC</a> on Learn.co and start learning to code for free.</p>
