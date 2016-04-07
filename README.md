@@ -12,7 +12,7 @@
 
 ## Overview
 
-We've leanred a ton about Ruby, Sinatra, and MVC so far. Over the next few Units, we'll be combining what we've learned to build our own version of Twitter - Fwitter (short for Flatiron Twitter - get it!? Please don't sue). 
+We've learned a ton about Ruby, Sinatra, and MVC so far. Over the next few Units, we'll be combining what we've learned to build our own version of Twitter - Fwitter (short for Flatiron Twitter - get it!? Please don't sue). 
 
 Fork and clone this repository to get started!
 
